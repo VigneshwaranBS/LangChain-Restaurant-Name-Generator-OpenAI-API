@@ -1,6 +1,11 @@
 import streamlit as st
 import langchain_code
 
+headers = {
+    "authorization": st.secrets['openai_key'],
+    "content-type" : "applications/json"
+}
+
 st.title("Restaurant Name Generator")
 
 cuisine = st.sidebar.selectbox("Choose a Cuisine", ("Indian", "Arabic","American","Itailan","Chinese","Japenese"))

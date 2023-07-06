@@ -1,2 +1,2 @@
-openai_key = "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"
-serpapi_key = "fcc7b60cda218375aaddc759cbf5a7839a91d575e437597ca20823f143ef431d"
+openai_key = ""
+serpapi_key = ""

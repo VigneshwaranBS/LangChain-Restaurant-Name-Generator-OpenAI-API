@@ -8,10 +8,7 @@ from langchain.chains import SequentialChain
 from secret_key import openai_key
 os.environ['OPENAI_API_KEY'] = openai_key
 
-headers = {
-    "authorization": st.secrets['openai_key'],
-    "content-type" : "applications/json"
-}
+
 
 
 

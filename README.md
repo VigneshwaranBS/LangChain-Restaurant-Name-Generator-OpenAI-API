@@ -32,6 +32,7 @@ Obtain API keys:
 OpenAI API: [https://platform.openai.com/account/api-keys]
 
 SerpAPI: [https://serpapi.com/manage-api-key]
+
 Make sure to replace the placeholders in the code with your API keys.
 
 3.Run the application:

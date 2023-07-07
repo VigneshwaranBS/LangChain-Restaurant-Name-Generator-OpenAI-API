@@ -30,5 +30,42 @@ npm install -r requirements.txt
 Obtain API keys:
 
 OpenAI API: [https://platform.openai.com/account/api-keys]
+
 SerpAPI: [https://serpapi.com/manage-api-key]
 Make sure to replace the placeholders in the code with your API keys.
+
+3.Run the application:
+
+```
+streamlit run main.py
+```
+Access the generator through your web browser:
+
+```
+http://localhost:3000
+```
+
+4.Configuration
+Before running the application, make sure to update the configuration file (config.js) with the required API credentials and any other customization options.
+
+5.Usage
+-Specify your preferences, such as category, cuisine, or theme.
+-Click the "Generate" button to generate a restaurant name.
+-Explore the generated names and choose the one that best fits your needs.
+-Optionally, utilize the additional data from SerpAPI to gather insights and trends for the generated names.
+
+6.Contributing
+Contributions are welcome! If you want to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
+
+7.License
+This project is licensed under the MIT License.
+
+Feel free to modify this README file based on your project's specific details, requirements, and guidelines. Add sections, update information, and provide relevant links to your project's documentation, API references, or any other resources.
+
+
+```
+Make sure to replace the placeholder links and API documentation references with the actual links and information specific to your project.
+
+Remember to format the file correctly using proper Markdown syntax for headings, lists, code blocks, and other elements.
+```
+

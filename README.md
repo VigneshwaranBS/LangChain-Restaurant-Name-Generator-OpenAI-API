@@ -18,9 +18,9 @@ To run the restaurant name generator locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/VigneshwaranBS/LangChain-Restaurant-Name-Generator-OpenAI-API.git
-   ```
+ ```bash
+ git clone https://github.com/VigneshwaranBS/LangChain-Restaurant-Name-Generator-OpenAI-API.git
+ ```
 
 2.Install the required dependencies:
 

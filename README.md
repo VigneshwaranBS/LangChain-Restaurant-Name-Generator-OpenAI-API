@@ -55,12 +55,8 @@ Before running the application, make sure to update the configuration file (conf
 -Optionally, utilize the additional data from SerpAPI to gather insights and trends for the generated names.
 
 6.Contributing
-Contributions are welcome! If you want to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
+Contributions are welcome! If you want to contribute to this project, please follow the guidelines outlined in the README.md file.
 
-7.License
-This project is licensed under the MIT License.
-
-Feel free to modify this README file based on your project's specific details, requirements, and guidelines. Add sections, update information, and provide relevant links to your project's documentation, API references, or any other resources.
 
 
 ```

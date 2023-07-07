@@ -47,15 +47,18 @@ http://localhost:3000
 ```
 
 4.Configuration
+
 Before running the application, make sure to update the configuration file (config.js) with the required API credentials and any other customization options.
 
 5.Usage
+
 -Specify your preferences, such as category, cuisine, or theme.
 -Click the "Generate" button to generate a restaurant name.
 -Explore the generated names and choose the one that best fits your needs.
 -Optionally, utilize the additional data from SerpAPI to gather insights and trends for the generated names.
 
 6.Contributing
+
 Contributions are welcome! If you want to contribute to this project, please follow the guidelines outlined in the README.md file.
 
 

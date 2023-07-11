@@ -43,7 +43,7 @@ streamlit run main.py
 Access the generator through your web browser:
 
 ```
-http://localhost:3000
+http://localhost:5000
 ```
 
 4.Configuration
